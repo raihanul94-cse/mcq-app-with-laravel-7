@@ -1,7 +1,6 @@
-```
-Clone the repository-
+-`Clone the repository-`
 git clone https://github.com/raihanul94-cse/mcq-app-with-laravel-7.git
-Change Directory -
+-`Change Directory -`
 cd online-mcq
 Install dependencies-
 composer install
