@@ -1,0 +1,41 @@
+[
+    {
+        "question": "Whis is the anem ?",
+        "options": {
+            "a": "d",
+            "b": "dad",
+            "c": "dw",
+            "d": "we"
+        },
+        "timeLimit": "1",
+        "questionCategory": "programming",
+        "questionWeight": "2",
+        "correctOption": "b"
+    },
+    {
+        "question": "e2e",
+        "options": {
+            "a": "wq",
+            "b": "q",
+            "c": "1",
+            "d": "13"
+        },
+        "timeLimit": "1",
+        "questionCategory": "general",
+        "questionWeight": "2",
+        "correctOption": "c"
+    },
+    {
+        "question": "eqd",
+        "options": {
+            "a": "qwq",
+            "b": "q",
+            "c": "w",
+            "d": "wq"
+        },
+        "timeLimit": "1",
+        "questionCategory": "programming",
+        "questionWeight": "2",
+        "correctOption": "b"
+    }
+]
