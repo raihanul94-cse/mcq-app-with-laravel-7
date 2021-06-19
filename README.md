@@ -1,6 +1,5 @@
-git clone --depth=1 --branch=master git@github.com:Zizaco/laravel-project.git <projectName>
-cd !$
-rm -rf .git
-composer run-script post-root-package-install
-composer install
-composer run-script post-create-project-cmd
+``git clone https://github.com/raihanul94-cse/mcq-app-with-laravel-7.git
+``cd online-mcq
+``composer install
+``php artisan migrate
+``php artisan db:seed
